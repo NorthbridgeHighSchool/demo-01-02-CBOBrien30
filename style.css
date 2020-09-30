@@ -1,3 +1,18 @@
 html {
-  background-color: rgb(218, 167, 167);
+  background-color: rgb(209, 188, 247);
+  border: 4px dotted rgb(30, 144, 197);
+}
+p {font-variant: small-caps;
+ color: rgb(73, 35, 95);
+font-style: normal; 
+font-size: 14pt;
+} 
+h1{color: rgb(26, 73, 204);
+font-style: italic;
+border: 8px solid rgb(138, 7, 127);
+background-color: rgb(151, 204, 211)
+}
+h2{color: rgb(70, 152, 228);
+font-style: oblique;
+border: 4px dotted rgb(177, 118, 233)
 }
